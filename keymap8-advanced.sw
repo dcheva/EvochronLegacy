@@ -29,7 +29,7 @@ Key and Button Mappings
 32
 0,-1
 -1
-220
+90
 0,-1
 -1
 260
@@ -104,7 +104,7 @@ Key and Button Mappings
 66
 0,-1
 -1
-191
+88
 0,-1
 -1
 70
