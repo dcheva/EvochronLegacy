@@ -1,3 +1,2 @@
 Map Log Locations
-> X=-49970 Y=81 Z=-69958 SX=0 SY=0 SZ=-500,m
-
+> X=49979 Y=143 Z=-54725 SX=3500 SY=0 SZ=-1800,d
